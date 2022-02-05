@@ -32,11 +32,48 @@ In addition, it is recommended but not required that you have either already tak
 Grading and Assignments
 -----------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 30% |
-| In-class midterm | 30% |
-| Final exam | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class midterm
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 *   Problem sets (30%). There will be 5-6 problem sets, so one approximately every two weeks. These will be a mix of theoretical exercises and empirical exercises. You will need to use Stata to complete the problem sets. I will drop the lowest problem set grade.
 *   In-class midterm (30%).
@@ -50,7 +87,7 @@ Readings
 
 The readings for this class are mostly academic economics papers. I expect you to do the required readings before class (the ones labeled "Read" on the syllabus), and may ask about them on the pop quizzes. I will not go over all of the details of the papers in class, but will expect you to have read them beforehand so that we can discuss them. You are not expected to understand every single detail or every single equation in every article I assign, but you are expected to understand the methods used by the authors to reach their conclusions. In addition to the main reading I've listed for each class, I've also listed the other papers that I may discuss in class, but for these papers you are only responsible for the material I discuss in class.
 
-I will draw on several occasions from the textbook Shepsle, Kenneth A. _Analyzing Politics: Rationality, Behavior and Instititutions_. 2 ed. W. W. Norton & Company, 2010. ISBN: 9780393935073. Luckily, as textbooks go it is inexpensive (<$30 on Amazon.com).
+I will draw on several occasions from the textbook Shepsle, Kenneth A. _Analyzing Politics: Rationality, Behavior and Instititutions_. 2 ed. W. W. Norton & Company, 2010. ISBN: 9780393935073. Luckily, as textbooks go it is inexpensive (\<$30 on Amazon.com).
 
 If you are interested in some general background reading related to the topics we'll cover in this course, you may be interested in checking out some of the following books. None of these are required, and I won't draw on them explicitly. They are all pretty easy reading. add amazon citation/purchase button to following list.
 
@@ -63,37 +100,379 @@ If you are interested in some general background reading related to the topics w
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **I. Introduction** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-| 1 | Introduction: Why study political economy and development? Motivation and course overview | &nbsp; |
-| {{< td-colspan 3 >}}**II. Does Political Economy Matter for Economic Development? Some Facts and Empirical Techniques.**{{< /td-colspan >}} |||
-| 2 | The Role of Leaders and Democratic Institutions | A refresher on statistical inference. |
-| 3 | The Deep Determinants of Economic Development: Macro Evidence |  {{< br >}}{{< br >}} Introduction to instrumental variables and fixed effects estimation {{< br >}}{{< br >}} Problem set 1 due {{< br >}}{{< br >}}  |
-| 4 | The Deep Determinants of Economic Development: Micro Evidence | Introduction to regression discontinuity designs. |
-| 5 | None Available | &nbsp; |
-| {{< td-colspan 3 >}}**III. Voting**{{< /td-colspan >}} |||
-| 6 | The Median Voter Theorem | &nbsp; |
-| 7 | The Median Voter Theorem (cont.) | Problem set 2 due |
-| 8 | Voting in Practice: Citizen-Candidate Models, Politician Identity and the Failure of the Median Voter Theorem | &nbsp; |
-| 9 | Voting in Practice: Agency Models | &nbsp; |
-| 10 | Voting in Practice: Agency Models (cont.) | &nbsp; |
-| 11 | Voting in Practice: Vote buying and voter intimidation | &nbsp; |
-| 12 | Sometimes It Gets Complicated: Condorcet's Paradox and Arrow's Impossibility Theorem | Problem set 3 due |
-| 13 | Midterm | Midterm |
-| {{< td-colspan 3 >}}**IV. Dictatorship**{{< /td-colspan >}} |||
-| 14 | Good vs. Bad Dictatorships | &nbsp; |
-| 15 | Commitment problems in Dictatorship | &nbsp; |
-| {{< td-colspan 3 >}}**V. Collective Action**{{< /td-colspan >}} |||
-| 16 | The Logic of Collective Action | &nbsp; |
-| 17 | Ethnic Heterogeneity and Contributions to Public Goods | Problem set 4 due |
-| 18 | Monitoring and Collective Action Problems | &nbsp; |
-| 19 | Recovery from Civil War. Special | Guest Lecture: Fotini Christia on Conflict and Community Development in Afghanistan |
-| 20 | Why Do Wars Happen? | &nbsp; |
-| 21 | Civil War | Problem set 5 due |
-| {{< td-colspan 3 >}}**VI. Corruption**{{< /td-colspan >}} |||
-| 22 | Is Corruption Inefficient? | &nbsp; |
-| 23 | The Corrupt Official's Decision Problem: Balancing Risks, Rents, and Incentives | &nbsp; |
-| 24 | The Industrial Organization of Corruption | Problem set 6 due |
-| 25 | Politicians and Firms | &nbsp; |
-| 26 | Wrap Up |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**I. Introduction**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Why study political economy and development? Motivation and course overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Does Political Economy Matter for Economic Development? Some Facts and Empirical Techniques.**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Role of Leaders and Democratic Institutions
+{{< tdclose >}}
+{{< tdopen >}}
+A refresher on statistical inference.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Deep Determinants of Economic Development: Macro Evidence
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to instrumental variables and fixed effects estimation
+
+Problem set 1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Deep Determinants of Economic Development: Micro Evidence
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to regression discontinuity designs.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+None Available
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. Voting**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Median Voter Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The Median Voter Theorem (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Voting in Practice: Citizen-Candidate Models, Politician Identity and the Failure of the Median Voter Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Voting in Practice: Agency Models
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Voting in Practice: Agency Models (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Voting in Practice: Vote buying and voter intimidation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Sometimes It Gets Complicated: Condorcet's Paradox and Arrow's Impossibility Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**IV. Dictatorship**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Good vs. Bad Dictatorships
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Commitment problems in Dictatorship
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**V. Collective Action**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+The Logic of Collective Action
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Ethnic Heterogeneity and Contributions to Public Goods
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Monitoring and Collective Action Problems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Recovery from Civil War. Special
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture: Fotini Christia on Conflict and Community Development in Afghanistan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Why Do Wars Happen?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Civil War
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**VI. Corruption**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Is Corruption Inefficient?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+The Corrupt Official's Decision Problem: Balancing Risks, Rents, and Incentives
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+The Industrial Organization of Corruption
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Politicians and Firms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap Up
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
