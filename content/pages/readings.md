@@ -108,7 +108,7 @@ Dell, Melissa. "[The Persistent Effects of Peru's Mining Mita](http://dx.doi.org
 
 ### Optional
 
-Michalopoulos, Stelios, and Elias Papaioannou. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Divide and Rule or the Rule of the Divided? Evidence from Africa." (PDF)](http://www.nber.org/papers/w17184) NBER Working Paper no. 17184 (2011).
+Michalopoulos, Stelios, and Elias Papaioannou. "[Divide and Rule or the Rule of the Divided? Evidence from Africa." (PDF)](http://www.nber.org/papers/w17184) NBER Working Paper no. 17184 (2011).
 
 
 {{< tdclose >}}
@@ -198,11 +198,11 @@ Voting in Practice: Agency Models
 
 De La O, Ana L. "[Do Conditional Cash Transfers Affect Electoral Behavior? Evidence from a Randomized Experiment in Mexico](http://dx.doi.org/10.1111/j.1540-5907.2012.00617.x)." _American Journal of Political Science_ 57, no. 1 (2013): 1–14.
 
-Banerjee, Abhijit V., Selvan Kumar, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Do Informed Voters Make Better Choices? Experimental Evidence from Urban India." (PDF - 4.56MB)](https://epod.cid.harvard.edu/publications/do-informed-voters-make-better-choices) Working Paper (2011).
+Banerjee, Abhijit V., Selvan Kumar, et al. "[Do Informed Voters Make Better Choices? Experimental Evidence from Urban India." (PDF - 4.56MB)](https://epod.cid.harvard.edu/publications/do-informed-voters-make-better-choices) Working Paper (2011).
 
 ### Optional
 
-Miguel, Edward, Marco Manacorda, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Government Transfers and Political Support." (PDF)](http://www.nber.org/papers/w14702.pdf) _American Economic Journal: Applied Economics_. NBER Working Paper no. 14702 (2009).
+Miguel, Edward, Marco Manacorda, et al. "[Government Transfers and Political Support." (PDF)](http://www.nber.org/papers/w14702.pdf) _American Economic Journal: Applied Economics_. NBER Working Paper no. 14702 (2009).
 
 Ferraz, Claudio, and Frederico Finan. "[Exposing Corrupt Politicians: The Effect of Brazil's Publicly Released Audits on Electoral Outcomes](http://dx.doi.org/10.1162/qjec.2008.123.2.703)."The Quarterly Journal of Economics 123, no. 2 (2008): 703–45.
 
@@ -234,11 +234,11 @@ Voting in Practice: Vote Buying and Voter Intimidation
 
 ### Read
 
-Finan, Fredericom, and Laura Schecter. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Vote-Buying and Reciprocity?" (PDF)](http://www.aae.wisc.edu/lschechter/votebuying.pdf) Working Paper (2011).
+Finan, Fredericom, and Laura Schecter. "[Vote-Buying and Reciprocity?" (PDF)](http://www.aae.wisc.edu/lschechter/votebuying.pdf) Working Paper (2011).
 
 ### Optional
 
-Gans-Morse, Jordan, Sebastian Mazzuca, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Who Gets Bought? Vote Buying, Turnout Buying, and Other Strategies." (PDF - 4.5MB)](https://www.researchgate.net/publication/228376442_Who_Gets_Bought_Vote_Buying_Turnout_Buying_and_Other_Strategies) _Weatherhead Center For International Affairs_. Harvard University Working Paper no. 09-0006 (2009).
+Gans-Morse, Jordan, Sebastian Mazzuca, et al. "[Who Gets Bought? Vote Buying, Turnout Buying, and Other Strategies." (PDF - 4.5MB)](https://www.researchgate.net/publication/228376442_Who_Gets_Bought_Vote_Buying_Turnout_Buying_and_Other_Strategies) _Weatherhead Center For International Affairs_. Harvard University Working Paper no. 09-0006 (2009).
 
 Nichter, Simeon. "[Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot](http://dx.doi.org/10.1017/S0003055408080106)." _American Political Science Review_ 102, no. 1 (2008): 19–31.
 
@@ -294,7 +294,7 @@ Olson, Mancur. "[Dictatorship, Democracy, and Development](http://www.jstor.org/
 
 ### Optional
 
-Easterly, William. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Benevolent Autocrats." (PDF)](http://williameasterly.files.wordpress.com/2011/09/benevolent-autocrats-easterly-draft.pdf) 2011.
+Easterly, William. "[Benevolent Autocrats." (PDF)](http://williameasterly.files.wordpress.com/2011/09/benevolent-autocrats-easterly-draft.pdf) 2011.
 
 
 {{< tdclose >}}
@@ -316,7 +316,7 @@ Acemoglu, Daron, and James A. Robinson. Chapters 1, 2, and 5 in _Economic Origin
 
 ### Optional
 
-Easterly, William. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Benevolent Autocrats." (PDF)](http://williameasterly.files.wordpress.com/2011/09/benevolent-autocrats-easterly-draft.pdf) 2011.
+Easterly, William. "[Benevolent Autocrats." (PDF)](http://williameasterly.files.wordpress.com/2011/09/benevolent-autocrats-easterly-draft.pdf) 2011.
 
 
 {{< tdclose >}}
@@ -390,7 +390,7 @@ Björkman, Martina, and Jakob Svensson. "[Power to the People: Evidence from a R
 
 Olken, Benjamin. "[Monitoring Corruption: Evidence from a Field Experiment in Indonesia](http://economics.mit.edu/files/2913)." _Journal of Political Economy_ 115, no. 2 (2007): 200–49.
 
-Banerjee, Abhijit, Esther Duflo, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Pitfalls of Participatory Programs: Evidence from three randomized experiments in education in India." (PDF)](http://www.nber.org/papers/w14311) NBER Working Paper no. 14311 (2008).
+Banerjee, Abhijit, Esther Duflo, et al. ["Pitfalls of Participatory Programs: Evidence from three randomized experiments in education in India." (PDF)](http://www.nber.org/papers/w14311) NBER Working Paper no. 14311 (2008).
 
 
 {{< tdclose >}}
@@ -408,7 +408,7 @@ Recovery from Civil War
 
 ### Read
 
-Beath, Andrew, Fotini Christia, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Winning Hearts and Minds: Evidence from a Field Experiment in Afghanistan." (PDF)](http://www.princeton.edu/~pcglobal/conferences/methods/papers/beath.pdf) MIT Political Science Department Working Paper no. 2011–14 (2012).
+Beath, Andrew, Fotini Christia, et al. ["Winning Hearts and Minds: Evidence from a Field Experiment in Afghanistan." (PDF)](http://www.princeton.edu/~pcglobal/conferences/methods/papers/beath.pdf) MIT Political Science Department Working Paper no. 2011–14 (2012).
 
 
 {{< tdclose >}}
@@ -478,7 +478,7 @@ Bertrand, Marianne, Simeon Djankov, et al. "[Obtaining a Driver's License in Ind
 
 ### Optional
 
-Banerjee, Abhijit, Rema Hanna, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Corruption." (PDF)](http://www.nber.org/papers/w17968) NBER Working Paper no. 179682011 (2012).
+Banerjee, Abhijit, Rema Hanna, et al. ["Corruption." (PDF)](http://www.nber.org/papers/w17968) NBER Working Paper no. 179682011 (2012).
 
 Hsieh, Chang-Tai, and Enrico Moretti. "[Did Iraq Cheat the United Nations? Underpricing, Bribes, and the Oil for Food Program](http://dx.doi.org/10.1093/qje/121.4.1211)." _The_ _Quarterly Journal of Economics_ 121, no. 4 (2006): 1211–48.
 
@@ -500,7 +500,7 @@ The Corrupt Official's Decision Problem: Balancing Risks, Rents, and Incentives
 
 ### Read
 
-Olken, Benjamin A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Monitoring Corruption: Evidence from a Field Experiment in Indonesia." (PDF)](http://economics.mit.edu/files/2913) _Journal of Political Economy_ 115, no. 2 (2007): 200–49.
+Olken, Benjamin A. ["Monitoring Corruption: Evidence from a Field Experiment in Indonesia." (PDF)](http://economics.mit.edu/files/2913) _Journal of Political Economy_ 115, no. 2 (2007): 200–49.
 
 ### Optional
 
@@ -558,7 +558,7 @@ Riordan, William L. "Honest Graft and Dishonest Graft." Chapter 1 in _Plunkitt o
 
 Khwaja, Asim Ijaz, and Atif Mian. "[Do Lenders Favor Politically Connected Firms? Rent Provision in an Emerging Financial Market](http://dx.doi.org/10.1162/003355305775097524)." _Quarterly Journal of Economics_ 121, no. 4 (2005): 1371–411.
 
-Fisman, Ray, David Fisman, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Estimating the value of connections to Vice-President Cheney." (PDF)](http://fairmodel.econ.yale.edu/ec483/ffgk.pdf). Working Paper (2006).
+Fisman, Ray, David Fisman, et al. "[Estimating the value of connections to Vice-President Cheney." (PDF)](http://fairmodel.econ.yale.edu/ec483/ffgk.pdf). Working Paper (2006).
 
 
 {{< tdclose >}}
